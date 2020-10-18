@@ -3,6 +3,9 @@
 # Quasar Barcode Generator by KDJ (quasar-qr-generator)
 When I was developing an asset management using Quasar Framework, I got a requirment from my client to generate Barcodes. However, when I was searching on google for quasar Barcode Readers, Generator and more, I could only found out a reader which was developer by Mr. Patrick. Finally, I tried to make it using vue-barcode plugin and It was not hard as I thought. With the ease of Quasar Framework, nothing will be impossible anymore.
 
+https://kdjguru.com/how-to-generate-barcode-using-quasar/
+Above tutorial will show all the steps you need follow if you need it urgently.
+
 Anyways, this temnplates includes,
 Sass with indented syntax
 Auto Import in-use quasar comonents and directives
