@@ -1,27 +1,23 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/81b6a71c-c839-42b8-a1f1-25a8a99319c4/deploy-status)](https://app.netlify.com/sites/stupefied-hamilton-67b793/deploys)
 
-# Quasar Plain Template by KDJ (quasar-plain-template)
-All the templates of Quasar Framework are really great. But I wanted to remove all the unnecessary elements for a developer who likes to develop quasar without additional components. This is my start of quasar repos. All the repos with my Quasar Expereince will be updated with this template.
+# Quasar Barcode Generator by KDJ (quasar-barcode-generator)
+When I was developing an asset management using Quasar Framework, I got a requirment from my client to generate Barcodes. However, when I was searching on google for quasar Barcode Readers, Generator and more, I could only found out a reader which was developer by Mr. Patrick. Finally, I tried to make it using vue-barcode plugin and It was not hard as I thought. With the ease of Quasar Framework, nothing will be impossible anymore.
+
+https://kdjguru.com/how-to-generate-barcode-using-quasar/
+Above tutorial will show all the steps you need follow if you need it urgently.
 
 Anyways, this temnplates includes,
 Sass with indented syntax
-Auto Import iin-use quasar comonents and directives
+Auto Import in-use quasar comonents and directives
 Vuex, Axios, Vu-i18n
 Yarn
 
 # Added
-Dynamic Routes (SPA, PWA, etc)
-Quasar Conf
-    - vueRouterMode = history
-    - const path and quasar-env imported
-.env-sample
-    - API URL, PUBLIC URL
-Axios: env path ready
+Barcode Generator
 
 # Future Updates
-.env Support
-Store Basics
-Sample Pages
+Barcode to Image
+Barcode Settings Panel and etc
 
 ## Install the dependencies
 ```bash
