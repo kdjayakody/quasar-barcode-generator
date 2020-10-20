@@ -1,7 +1,7 @@
 <template>
 <div class="q-pr-xl q-pl-xl">
     <center class="q-mt-md">
-        <h1>KDJ QR Generator</h1>
+        <h1>KDJ Barcode Generator</h1>
         <p class="text-left">Barcode Settings</p>
 
         <div class="row q-col-gutter-xs">
